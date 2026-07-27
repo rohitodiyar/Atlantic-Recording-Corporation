@@ -18,6 +18,8 @@ Prerequisites:
 1) Ensure Python 3.9 or higher is installed on your environment
 
 2) Clone or download the project files into your local directory:
+git clone https://github.com/your-username/uk-playlist-structure-analysis.git                                                
+cd uk-playlist-structure-analysis
 
 3) Install Required Dependencies: pip install streamlit pandas plotly networkx matplotlib
 
